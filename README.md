@@ -1,6 +1,6 @@
 # Full-Stack Coding Challenge
 
-**Deadline**: Sunday, Feb 16th 11:59 pm PST
+**Deadline**: Friday, Feb 21th 11:59 pm PST
 
 ---
 
@@ -86,11 +86,12 @@ This challenge is intended to be completed within ~3 hours, so keep solutions mi
    - How to run the backend.
    - How to run the frontend.
    - Any relevant notes on testing.
+   - Salary Expectations per month (Mandatory)
 3. **Short Video Demo**: Provide a link (in a `.md` file in your forked repo) to a brief screen recording showing:
    - Registering a user
    - Logging in
    - Creating, updating, and deleting tasks
-4. **Deadline**: Submissions are due **Sunday, Feb 16th 11:59 pm PST**.
+4. **Deadline**: Submissions are due **Friday, Feb 21th 11:59 pm PST**.
 
 > **Note**: Please keep your solution minimal. The entire project is intended to be completed in around 3 hours. Focus on core features (registration, login, tasks CRUD) rather than polished UI or extra features.
 
