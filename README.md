@@ -1,6 +1,6 @@
 # Full-Stack Coding Challenge
 
-**Deadline**: Friday, Feb 21th 11:59 pm PST
+**Deadline**: Sunday, Feb 23th 11:59 pm PST
 
 ---
 
@@ -91,7 +91,7 @@ This challenge is intended to be completed within ~3 hours, so keep solutions mi
    - Registering a user
    - Logging in
    - Creating, updating, and deleting tasks
-4. **Deadline**: Submissions are due **Friday, Feb 21th 11:59 pm PST**.
+4. **Deadline**: Submissions are due **Sunday, Feb 23th 11:59 pm PST**.
 
 > **Note**: Please keep your solution minimal. The entire project is intended to be completed in around 3 hours. Focus on core features (registration, login, tasks CRUD) rather than polished UI or extra features.
 
