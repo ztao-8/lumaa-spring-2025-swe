@@ -47,6 +47,7 @@ REACT_APP_API_URL=http://localhost:5001
 ---
 
 ## Deliverables video
-
+https://usfca.zoom.us/rec/share/RGRoiOIh_Lb7g8R2RFvn6KcbVNlibge0mWT_d2KweQufPQOkWiwMZz96vF2RpKlK.saRl-0w6v5RBT4Ah 
+password: yi&b7+Qh
 
 
